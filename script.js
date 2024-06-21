@@ -28,7 +28,7 @@ const qodamNames = [
   { img: "img/marwoto.jpg", kodam: "Marwoto S.Pd" },
   { img: "img/mesi.jpg", kodam: "El Cekik" },
   { img: "img/mrbuas.jpg", kodam: "Mr Buast" },
-  { img: "img/mujianto.jpg", kodam: "Mujianto  S.Pd" },
+  { img: "img/mujianto.jpg", kodam: "Mujianto S.Pd" },
   { img: "img/nguwawor.jpg", kodam: "Nguwawor" },
   { img: "img/pembalap.jpg", kodam: "Pembalap" },
   { img: "img/peshate.jpg", kodam: "PE ES HA TE" },
